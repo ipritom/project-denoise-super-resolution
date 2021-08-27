@@ -4,7 +4,7 @@ Noise reduction in images and acheiving high resolution image from a low resolut
 
 ---
 ## How to Use
-### To Utilised Trained Model
+### To Utilise Trained Model
 - Find the `Notebooks\Applying_Trained_Model_on_Image_and_Video.ipynb` file. Detailed instruction is added to the notebook.
   
 - Unzip `weights.zip` for pretrained weights.
